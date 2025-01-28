@@ -16,3 +16,29 @@ A Universal Omnitrix Watchface for the Galaxy Watch (and other Wear OS devices)
 9. Now, GeminiMan app will sync with your watch which might take a minute or two. After this, you can select "Install APK File" on the app, and load the APK file you downloaded.
 
 Voila, you are done. Enjoy!
+
+## Gallery:
+
+### AOD (With Omniverse style selected):
+
+![AOD](AOD.png)
+
+### Main Watchface (With Omniverse style selected):
+
+![Omniverse](Omniverse.png)
+
+### Color Chooser (With Original Series style selected):
+
+![Color Chooser](Color_chooser.png)
+
+### Style Chooser (With 5YL Series style selected):
+
+![Style Chooser](Style_chooser.png)
+
+### Minute Index Disabled (With Original Series + Ben 23 style selected):
+
+![Minute Index](Minute_Index.png)
+
+### Hour Index Disabled (With Omniverse + Mad Ben style selected):
+
+![Hour Index](Hour_Index.png)
